@@ -7,4 +7,5 @@
  1. Clients complain that translation quality is not stable;
  2. Many post editors remain without translation tasks.
  We need a translation task assignment procedure that can address both complaints.
+ 
  The challenge is described in detail in the file 'challenge.pdf'.
